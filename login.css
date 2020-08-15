@@ -1,0 +1,169 @@
+body{
+    margin-top: 30px;
+    background-color: #FAFAFA;
+}
+
+
+.main{
+    margin-top: 30px;
+    padding-bottom: 44px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: ;
+    
+}
+
+#img{
+    width: 454px;
+    height: 618px;
+    
+}
+#loginForm{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.login{
+    width: 350px;
+    height: 696px;
+    margin-top: 12px;
+    justify-content: center;
+    align-items: center;
+    
+}
+.logina{
+    position: relative;
+    width: 350px;
+    height: 380px;
+    margin: 0 0 10px;
+    padding: 10px 0;
+    border: 1px solid rgba(var(--b6a,219,219,219),1);
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.loginb{
+    position: relative;
+    border: 1px solid rgba(var(--b6a,219,219,219),1);
+    background-color: white;
+    width: 350px;
+    height: 63px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+#name{
+    
+    margin: 22px auto 12px;
+    height: 51px;
+    width: 175px;
+    font-family: 'Pacifico', cursive;
+    height: 51px;
+    width: 175px;
+    font-size: 30px;
+}
+
+
+.id{
+    margin: 8px 20px;
+    width: 258px;
+    height: 36px;
+    display: flex;
+    justify-content: center;
+    background-color: #FAFAFA;
+    border: 1px solid rgba(var(--b6a,219,219,219),1);
+    border-radius: 10px;
+    outline: none;
+    
+}
+
+.ps{
+    margin: 8px 20px;
+    width: 258px;
+    height: 36px;
+    display: flex;
+    justify-content: center;
+    background-color: #FAFAFA;
+    border: 1px solid rgba(var(--b6a,219,219,219),1);
+    border-radius: 10px;
+    outline: none;
+}
+#rkdlq{
+    color: #0095F6;
+    margin-left: 5px;
+}
+
+.bottom{
+    display: flex;
+    width: 268px;
+    height: 30px;
+    justify-content: center;
+    margin: 8px 40px;
+    border: 0;
+    background-color: #B2DFFC;
+    text-align: center;
+    padding: 5px;
+    border-radius: 5px;
+    outline: none;
+    color: white;
+
+}
+
+#nameb{
+    color: white;
+    align-content: center;
+}
+
+.or{
+    justify-content: center;
+    flex-direction: row;
+    margin: 10px 40px 18px;
+}
+
+#orcenter{
+    color: #8E8E8E;
+    font-size: 12px;
+    margin: 0 10px;
+}
+
+
+.facebook{
+    display: flex;
+    justify-content: center;
+
+}
+
+#fid{
+    color: #385185;
+}
+#bor{
+    width: 100px;
+    border: none;
+    background: #DBDBDB;
+    height: 1px;
+}
+
+.forget{
+    display: flex;
+    justify-content: center;
+    margin: 40px 0 0 0;
+    font-size: 12px;
+}
+.downlode{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    padding: 10px;   
+    font-size: 15px;
+}
+.app{
+    display: flex;
+    justify-content: center;
+}
